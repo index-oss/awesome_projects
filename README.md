@@ -34,11 +34,17 @@ I’m a developer who loves **building intelligent tools** and **solving complex
 
 **Let’s connect:**  
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/mohit-sharma-143271330)
+<a href="https://www.linkedin.com/in/mohit-sharma-143271330" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="32" height="32">
+</a>
 &nbsp;&nbsp;
-[![Twitter](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg)](https://x.com/Index_oss)
+<a href="https://x.com/Index_oss" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Twitter" width="32" height="32">
+</a>
 &nbsp;&nbsp;
-[![Email](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg)](mailto:gxoyyyo@gmail.com)
+<a href="mailto:gxoyyyo@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="32" height="32">
+</a>
 
 ---
 
