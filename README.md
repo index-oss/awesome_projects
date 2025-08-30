@@ -32,19 +32,10 @@ I’m a developer who loves **building intelligent tools** and **solving complex
 - **AI/ML Developer** – Focused on real-time, practical machine learning  
 - **DSA Lover** – Strong problem-solving mindset for competitive programming  
 
-**Let’s connect:**  
 
-<a href="https://www.linkedin.com/in/mohit-sharma-143271330" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="32" height="32">
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/Index_oss" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Twitter" width="32" height="32">
-</a>
-&nbsp;&nbsp;
-<a href="mailto:gxoyyyo@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="32" height="32">
-</a>
+**Let’s connect:**  
+[LinkedIn](https://www.linkedin.com/in/mohit-sharma-143271330) • [Twitter](https://x.com/Index_oss) • [Email](mailto:gxoyyyo@gmail.com)
+
 
 ---
 
