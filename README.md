@@ -25,6 +25,11 @@ Instead of browsing multiple repos, you can start here and jump directly to any 
 3. **DSA Patterns Visualizer**  
 
 ---
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=index-oss&theme=tokyo-night)
+
+---
 
 ## **About Me**  
 I’m a developer who loves **building intelligent tools** and **solving complex problems**:  
