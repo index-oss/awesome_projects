@@ -1,9 +1,5 @@
 # **Awesome Projects – Project Portfolio**  
 
-<p align="center">
-  <img src="logo.svg" alt="Project Logo" width="120"/>
-</p>
-
 > *A single place to explore my AI, cybersecurity, and software development projects.*  
 
 ---
@@ -22,14 +18,6 @@ Instead of browsing multiple repos, you can start here and jump directly to any 
 - **Each project is listed below with a short description and direct link.**  
 - **All projects have their own repositories** with full code, documentation, and usage guides.  
 - **This README will always stay up-to-date** as I add or improve projects.  
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gxoyyyo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 **Projects:**  
 1. **SelfHeal-AI – Autonomous Server Protection**  
