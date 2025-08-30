@@ -33,7 +33,7 @@ I’m a developer who loves **building intelligent tools** and **solving complex
 - **DSA Lover** – Strong problem-solving mindset for competitive programming  
 
 **Let’s connect:**  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Twitter](https://twitter.com/yourprofile) • [Email](mailto:youremail@example.com)  
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohit-sharma-143271330)) • [Twitter]([https://twitter.com/yourprofile](https://x.com/Index_oss)) • [Email](mailto:gxoyyyo@gmail.com)  
 
 ---
 
